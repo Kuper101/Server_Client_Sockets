@@ -1,4 +1,6 @@
 # Server_Client_Sockets
+School project for introduction to system programming course.
+
 Pseudo-online game of rock, paper scissors (and Spock and lizard), using
 server/client implementation with TCP/IP Socket communication.
 
